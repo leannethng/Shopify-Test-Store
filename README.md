@@ -10,7 +10,7 @@
 - The live site can be the Production Environment
 - Duplicate the theme and use it's theme id for the Development Environment
 - Disable eslint and prettier for the workspace. 
-- Open the them to view in the browser
+- Open the theme to view in the browser
     - `theme open --env=development`
     - Need to manually refresh currently
 - 'Watch' the Development Env and test and make edits - all edits get pushed and will modify this theme (The date will not change on the theme page but it is changing files under the hood)
